@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/mobile-phone_1f4f1.png"
-alt="Mobile Phone" width="20" height="20">
+alt="Mobile Phone" width="40" height="40">
 <p>
 
 <p align="center">
