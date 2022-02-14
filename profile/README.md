@@ -7,5 +7,5 @@ alt="Mobile Phone" width="40" height="40">
 <p> -->
 
 <p align="center">
-  <a href="https://absent.cc"><b>abSENT</b></a> is a mobile app for Newton high schoolers that notifies them of absent teachers and cancelled classes.
+  <a href="https://absent.cc"><b>Mobile app</b></a> for Newton high schoolers that notifies them of absent teachers and cancelled classes.
 </p>
