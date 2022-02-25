@@ -5,12 +5,19 @@
 alt="Mobile Phone" width="40" height="40">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/bell_1f514.png" alt="Bell" width="40" height="40">
 <p> -->
+<div Badges align="center">
+<a href="">![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fuser%2Fcount)</a>
+<a href="">![](https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fabsences%2Fcount)</a>
+<a href="">![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcount)</a>
+<a href="">![](https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcancelled)</a>
+
 
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fuser%2Fcount)
 ![](https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fabsences%2Fcount)
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcount)
 ![](https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcancelled)
 
+</div>
 <p align="center">
   <a href="https://absent.cc"><b>Mobile app</b></a> for Newton high schoolers that notifies them of absent teachers and cancelled classes.
 </p>
