@@ -1,4 +1,7 @@
-[![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)](https://github.com/absent-cc/absent)
+<a href="https://github.com/absent-cc/absent" target="_blank">
+  <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
+</a>
+
 <!-- 
 <p align="center">
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/mobile-phone_1f4f1.png"
