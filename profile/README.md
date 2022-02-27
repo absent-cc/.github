@@ -16,7 +16,6 @@ alt="Mobile Phone" width="40" height="40">
 <p align="center">
   <a href="https://absent.cc"><b>Mobile app</b></a> for Newton high schoolers that notifies them of absent teachers and cancelled classes.
 </p>
-
 <p align="center">
   Interested? Learn more about us <a href="https://github.com/absent-cc/absent"><b>here</b></a>
 </p>
