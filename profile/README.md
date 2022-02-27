@@ -1,4 +1,3 @@
-
 <a href="https://github.com/absent-cc/absent" target="_blank">
   <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
 </a>
