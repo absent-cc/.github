@@ -1,15 +1,15 @@
 <div HeaderImage>
-  <a href="https://github.com/absent-cc/absent" target="_blank">
+  <a href="https://github.com/absent-cc/absent">
     <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
   </a>
 </div>
   
-<!-- <div Badges align="center"> -->
+<div Badges align="center">
   <img alt="User Count" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fuser%2Fcount">
   <img alt="Absences Reported" src="https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fabsences%2Fcount">
   <img alt="Classes Serving" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcount">
   <img alt="Classes Cancelled" src="https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcancelled">
-<!-- </div> -->
+</div>
 
 <div Text align="center">
   <p>
