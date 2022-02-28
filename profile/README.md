@@ -1,11 +1,9 @@
 <div HeaderImage>
-  <a href="https://github.com/absent-cc/absent">
+<!--   <a href="https://github.com/absent-cc/absent"> -->
     <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
-  </a>
+<!--   </a> -->
 </div>
-  
-  Joe 
-  
+
 <div Badges align="center">
   <img alt="User Count" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fuser%2Fcount">
   <img alt="Absences Reported" src="https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fabsences%2Fcount">
