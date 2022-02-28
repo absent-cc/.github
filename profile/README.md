@@ -1,8 +1,4 @@
-<div HeaderImage>
-    <a href="https://github.com/absent-cc/absent">
-        <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
-    </a>
-</div>
+[![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)](https://github.com/absent-cc/absent)
 
 <div Badges align="center">
   <img alt="User Count" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fuser%2Fcount">
