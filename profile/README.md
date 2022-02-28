@@ -1,7 +1,7 @@
 <div HeaderImage>
-<!--   <a href="https://github.com/absent-cc/absent"> -->
-    <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
-<!--   </a> -->
+    <a href="https://github.com/absent-cc/absent">
+        <img src="https://github.com/absent-cc/branding/blob/main/assets/banner.svg" alt="abSENT Github Banner"
+    </a>
 </div>
 
 <div Badges align="center">
