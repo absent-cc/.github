@@ -4,7 +4,6 @@
   <img alt="User Count" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fusers%2Fcount%2F">
   <img alt="Absences Reported" src="https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fabsences%2Fcount%2F">
   <img alt="Classes Serving" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcount%2F">
-  <img alt="Classes Cancelled" src="https://img.shields.io/endpoint?color=%23DA2123&url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcancelled%2F">
 </div>
 
 <div Text align="center">
