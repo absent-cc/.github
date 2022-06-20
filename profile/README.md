@@ -6,6 +6,15 @@
   <img alt="Classes Serving" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.absent.cc%2Fv1%2Fbadges%2Fclasses%2Fcount%2F">
 </div>
 
+<div Text align="center">
+  <p>
+    <a href="https://absent.cc"><b>Mobile app</b></a> for Newton high schoolers that notifies them of absent teachers and cancelled classes.
+  </p>
+  <p>
+    Interested? Learn more about us <a href="https://absent.cc"><b>here</b></a>
+  </p>
+</div>
+
 <div Download align="center">
     <a
         href="https://apps.apple.com/us/app/absent-cancelled-classes/id1614750423"
@@ -31,13 +40,4 @@
         style="margin-left: 10px; height: 40px;"
     />
     </a>
-</div>
-
-<div Text align="center">
-  <p>
-    <a href="https://absent.cc"><b>Mobile app</b></a> for Newton high schoolers that notifies them of absent teachers and cancelled classes.
-  </p>
-  <p>
-    Interested? Learn more about us <a href="https://absent.cc"><b>here</b></a>
-  </p>
 </div>
