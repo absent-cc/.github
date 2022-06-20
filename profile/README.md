@@ -10,7 +10,7 @@
         alt-text="Download on App Store"
         title="Download on App Store"
         src="https://github.com/absent-cc/website/blob/main/images/app-store-badge.svg"
-        style="height: 1%;"
+        style="height: 10px;"
     />
     </a>
     <a
@@ -22,7 +22,7 @@
         alt-text="Download on Play Store"
         title="Download on Play Store"
         src="https://github.com/absent-cc/website/blob/main/images/play-store-badge.svg"
-        style="margin-left: 10px; height: 1%;"
+        style="margin-left: 10px; height: 10px;"
     />
     </a>
 </div>
