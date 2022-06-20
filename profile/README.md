@@ -1,6 +1,6 @@
 [![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)](https://github.com/absent-cc/absent)
 
-<div Download align="center">
+<div Download align="center" style="margin-bottom: 10px">
     <a
         href="https://apps.apple.com/us/app/absent-cancelled-classes/id1614750423"
         class="badge-link"
@@ -10,7 +10,7 @@
         alt-text="Download on App Store"
         title="Download on App Store"
         src="https://github.com/absent-cc/website/blob/main/images/app-store-badge.svg"
-        style="height: 60px;"
+        style="height: 40px;"
     />
     </a>
     <a
@@ -22,7 +22,7 @@
         alt-text="Download on Play Store"
         title="Download on Play Store"
         src="https://github.com/absent-cc/website/blob/main/images/play-store-badge.svg"
-        style="margin-left: 10px; height: 60px;"
+        style="margin-left: 10px; height: 40px;"
     />
     </a>
 </div>
