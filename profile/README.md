@@ -9,7 +9,7 @@
         class="badge"
         alt-text="Download on App Store"
         title="Download on App Store"
-        src="images/app-store-badge.svg"
+        src="https://github.com/absent-cc/website/blob/main/images/app-store-badge.svg"
     />
     </a>
     <a
