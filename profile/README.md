@@ -20,7 +20,7 @@
         class="badge"
         alt-text="Download on Play Store"
         title="Download on Play Store"
-        src="images/play-store-badge.svg"
+        src="https://github.com/absent-cc/website/blob/main/images/play-store-badge.svg"
     />
     </a>
 </div>
